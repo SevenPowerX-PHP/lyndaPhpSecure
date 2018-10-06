@@ -1,0 +1,1 @@
+Используйте php.net для update php --version
