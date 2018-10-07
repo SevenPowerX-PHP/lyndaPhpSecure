@@ -7,4 +7,5 @@
    - [x] 2.1 
    - [x] 2.2
    - [x] 2.3 
-   - [ ] 2.4 2_04. Configure error reporting
+   - [x] 2.4 2_04. Configure error reporting
+   - [ ] 2.5 2_05. Configuring magic quotes
